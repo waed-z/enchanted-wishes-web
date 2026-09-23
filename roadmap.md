@@ -1,7 +1,8 @@
-# Birthday Surprise Roadmap
+# Birthday Customization Studio Roadmap
 
-- [x] Build the cinematic opening, birthday centerpiece, and shared controls
-- [x] Build scrapbook, letter, wish cake, gift, admiration, and memory wall interactions
-- [x] Build the animated finale and replay flow
-- [x] Add responsive, reduced-motion, keyboard, and theme support
-- [x] Verify desktop and mobile journeys
+- [ ] Create the saved personalization model and browser media storage
+- [ ] Build the responsive customization studio and live preview
+- [ ] Connect letters, photos, memories, admiration notes, cover, music, themes, and decorations
+- [ ] Add section visibility and ordering controls
+- [ ] Keep the recipient experience free of editor controls
+- [ ] Verify saving, refreshing, uploads, preview, reset, and mobile use
